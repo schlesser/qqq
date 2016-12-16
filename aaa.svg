@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+	<circle r="30" fill="#000" cx="30"  cy="60" />
+	<circle r="50" fill="#000" cx="85"  cy="60" />
+	<circle r="40" fill="#fff" cx="85"  cy="60" />
+	<circle r="30" fill="#000" cx="30"  cy="60" />
+</svg>

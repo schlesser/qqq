@@ -1,0 +1,5 @@
+$.ajax('news.html', {
+	success: function(result) {
+		console.log(result);
+	}
+})
